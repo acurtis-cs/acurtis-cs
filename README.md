@@ -17,12 +17,12 @@ I'm currently using GitHub to document coursework and personal projects.
 
 ## Technical Skills
 - **Languages:**
-o) Java, Python, SQL  
+  o) Java, Python, SQL  
 - **Concepts:**
-o) Data Structures | Algorithms | Object-Oriented Programming
-o) Intro to Artificial Intelligence | Computer Organization
+  o) Data Structures | Algorithms | Object-Oriented Programming
+  o) Intro to Artificial Intelligence | Computer Organization
 - **Focus Areas:**
-o) Security Operations | Data Collection | Cybersecurtiy | Backend Development
+  o) Security Operations | Data Collection | Cybersecurtiy | Backend Development
 
 ---
 
