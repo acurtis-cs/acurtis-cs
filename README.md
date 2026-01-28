@@ -9,7 +9,6 @@
 ## About Me
 I am a Computer Science student and have professional experience in corporate security and military security operations. 
 My interests invlove **security, risk analysis, and applied software development**, where technology supports operational decision-making and real-world systems.
-Looking 
 
 I'm currently using GitHub to document coursework and personal projects.
 
@@ -39,5 +38,5 @@ I'm currently using GitHub to document coursework and personal projects.
 
 ---
 
-## Connect
+## 🌐Connect
 - LinkedIn: https://www.linkedin.com/in/alex-curtis-703b19138
